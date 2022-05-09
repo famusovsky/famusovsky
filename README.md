@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @famusovsky
 - 👀 I’m interested in AMOGUS
 - 🌱 I’m currently learning FAZBEARS PIZZA
-- 💞️ I’m looking to collaborate on BIG FLOPPA RUSSIAN CAT
+- 💞️ I’m looking to collaborate with BIG FLOPPA RUSSIAN CAT
 - 📫 How to reach me IDK
 
 <!---
