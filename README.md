@@ -1,9 +1,10 @@
-## Go разработчик в Умном доме Яндекса
 ## Go SWE at [Yandex](https://yandex.com/company/) Smart Home
+> ## Go разработчик в Умном доме Яндекса
 
-## Бакалавр "Программной Инженерии" ВШЭ.
 ## SWE BSc at [HSE University](https://cs.hse.ru/en/)
+> ## Бакалавр "Программной Инженерии" ВШЭ.
 
-Здесь в основном лежат мои учебные университетские работы.
 ---
+
 This account mainly presents my university projects.
+> Здесь в основном лежат мои учебные университетские работы.
